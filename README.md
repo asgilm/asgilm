@@ -6,5 +6,5 @@
 - <b>Audits</b>
   - [Botiym Toys audit](https://github.com/asgilm/Cibersecurity-Projects/tree/main/Audits)
 - <b>Network Traffic Analysis</b>
-  - [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/)
+  - [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/asgilm/Cibersecurity-Projects/tree/main/Cybersecurity-Incident-Report-Network-Traffic-Analysis)
 
