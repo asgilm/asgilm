@@ -1,5 +1,4 @@
 <h1>Hi, I'm Anderson! </h1>
-  <b>About me</b>
 
 <h2>👨‍💻 Cibersecurity Projects:</h2>
 
