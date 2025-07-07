@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anderson! </h1>
 
-<h2>👨‍💻 Cibersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Audits</b>
   - [Botiym Toys audit](https://github.com/asgilm/Cibersecurity-Projects/tree/main/audits/botium-toys-audit)
