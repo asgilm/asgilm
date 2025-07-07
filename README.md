@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cibersecurity Projects:</h2>
 
 - <b>Audits</b>
-  - [Botiym Toys audit](https://github.com/asgilm/Cibersecurity-Projects/tree/main/Audits)
+  - [Botiym Toys audit](./botium-toys-audit)
 - <b>Network Traffic Analysis</b>
-  - [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/asgilm/Cibersecurity-Projects/tree/main/Cybersecurity-Incident-Report-Network-Traffic-Analysis)
+  - [DNS Port 53 incident](./DNS-port-53-incident)
+  - [SYN Flood Attack](./SYN-flood-attack)
 
