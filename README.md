@@ -4,8 +4,8 @@
 
 - <b>Audits</b>
   - [Botiym Toys audit](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/botium-toys-audit)
-- <b>incident-response-and-analysis</b>
-  - [DDoS ICMP Flood Attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/incident-response-and-analysis)
-- <b>Network Traffic Analysis</b>
+- <b>Incident response and analysis</b>
+  - [DDoS ICMP Flood attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/incident-response-and-analysis)
+- <b>Network traffic analysis</b>
   - [DNS Port 53 incident](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/DNS-port-53-incident)
-  - [SYN Flood Attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/SYN-flood-attack)
+  - [SYN Flood attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/SYN-flood-attack)
