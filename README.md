@@ -9,3 +9,5 @@
 - <b>Network traffic analysis</b>
   - [DNS Port 53 incident](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/DNS-port-53-incident)
   - [SYN Flood attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/SYN-flood-attack)
+- <b>Linux Projects</b>
+  - [File Permissions Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/DNS-port-53-incident)
