@@ -11,3 +11,5 @@
   - [SYN Flood attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/SYN-flood-attack)
 - <b>Linux Projects</b>
   - [File Permissions Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/linux-projects/file-permissions-practice)
+- <b> Database Security </b>
+  - [SQL Filtering Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/database-security/sql-filtering-practice)
