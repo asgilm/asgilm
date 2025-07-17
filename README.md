@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anderson 👋</h1>
+<h1 align="center">Hi, I'm Anderson 👋🏾</h1>
 
 <p align="center">💻 Cybersecurity enthusiast | 🧠 Lifelong learner</p>
 
@@ -12,8 +12,6 @@ I'm passionate about cybersecurity and its power to protect people, data, and di
 - Threat analysis and forensics 🧪
 - Ethical hacking & red teaming 🎯
 - AI applied to cybersecurity 🤖
-
-I'm currently completing the [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) and documenting my journey through practical labs and personal projects.
 
 ---
 
@@ -45,7 +43,6 @@ These are some of the projects I've built or analyzed during my learning journey
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anderson-gil/)  
-- 📂 [Cybersecurity Portfolio Repo](https://github.com/asgilm/Cybersecurity-Projects)
 
 ---
 
