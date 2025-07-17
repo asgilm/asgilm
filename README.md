@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and its power to protect people, data, and di
 
 ## 📁 Cybersecurity Portfolio
 
-These are some of the projects I've built or analyzed during my learning journey. They include simulated incidents, auditing exercises, permission hardening, and more.
+These are some of the projects I have built, analyzed or broken.
 
 ### 🔹 [Cybersecurity Projects Repository](https://github.com/asgilm/Cybersecurity-Projects)
 
@@ -40,10 +40,18 @@ These are some of the projects I've built or analyzed during my learning journey
 
 ---
 
-## 📫 Let's Connect
+## 🧠 Philosophy on Security
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anderson-gil/)  
+> “The mind is the ultimate firewall.”  
+> *– Cybersecurity proverb*
+
+> “Knowing your own vulnerability is the first layer of defense.”  
+> *– Anderson Gil*
 
 ---
+<!--
+## 📫 Let's Connect
 
-> *"Security is not a product, but a process." – Bruce Schneier*
+- 💼 [LinkedIn](https://www.linkedin.com/in/anderson-gil/)
+
+---
