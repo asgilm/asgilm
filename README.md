@@ -13,4 +13,5 @@
   - [DDoS ICMP Flood attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/incident-response-and-analysis/ddos-icmp-flood-attack)
 - <b>Audits</b>
   - [Botiym Toys audit](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/botium-toys-audit)
+  - [Public Database Vulnerability Assessments](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/public-database-vulnerability-assessments)
 
