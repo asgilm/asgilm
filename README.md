@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anderson 👋</h1>
 
-<p align="center">💻 Cybersecurity enthusiast | 🧠 Lifelong learner | 🚀 Aspiring cloud security expert</p>
+<p align="center">💻 Cybersecurity enthusiast | 🧠 Lifelong learner</p>
 
 ---
 
