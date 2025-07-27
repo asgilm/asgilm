@@ -10,14 +10,14 @@ I'm passionate about cybersecurity and its power to protect people, data, and di
 
 - Cloud security ☁️
 - Threat analysis and forensics 🧪
-- Ethical hacking & red teaming 🎯
+- Threat hunting 🔍
 - AI applied to cybersecurity 🤖
 
 ---
 
 ## 📁 Cybersecurity Portfolio
 
-These are some of the projects I have built, analyzed or broken.
+These are some of the projects I have built, analyzed or, broken.
 
 ### 🔹 [Cybersecurity Projects Repository](https://github.com/asgilm/Cybersecurity-Projects)
 
@@ -44,9 +44,6 @@ These are some of the projects I have built, analyzed or broken.
 ---
 
 ## 🧠 Philosophy on Security
-
-> “The mind is the ultimate firewall.”  
-> *– Cybersecurity proverb*
 
 > “Knowing your own vulnerability is the first layer of defense.”  
 > *– Anderson Gil*
