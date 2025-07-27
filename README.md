@@ -21,6 +21,9 @@ These are some of the projects I have built, analyzed or broken.
 
 ### 🔹 [Cybersecurity Projects Repository](https://github.com/asgilm/Cybersecurity-Projects)
 
+- **Python Tools**
+  - [Update IP Allow List](https://github.com/asgilm/Cybersecurity-Projects/tree/main/python-tools/update-ip-allow-list)
+
 - **Database Security**
   - [SQL Filtering Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/database-security/sql-filtering-practice)
 
