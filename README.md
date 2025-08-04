@@ -8,8 +8,8 @@
 
 I'm passionate about cybersecurity and its power to protect people, data, and digital environments. With a background in network systems and a growing portfolio of hands-on projects, I'm committed to becoming a highly competent and adaptable security professional. I’m especially interested in:
 
-- Cloud security ☁️
 - Vulnerability Management 🔍
+- Cloud security ☁️
 - AI applied to cybersecurity 🤖
 
 ---
