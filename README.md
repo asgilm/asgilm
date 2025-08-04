@@ -18,7 +18,9 @@ I’m passionate about cybersecurity and its potential to protect people, data, 
 
 These are some of the projects I've built, analyzed or, broken.
 
-### 🔹 [Google Cybersecurity Projects](https://github.com/asgilm/Google-Cybersecurity-Projects)
+---
+
+### [Google Cybersecurity Projects](https://github.com/asgilm/Google-Cybersecurity-Projects)
 
 - **Python Tools:** [Update IP Allow List](https://github.com/asgilm/Cybersecurity-Projects/tree/main/python-tools/update-ip-allow-list)
 
