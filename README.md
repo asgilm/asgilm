@@ -18,27 +18,19 @@ I’m passionate about cybersecurity and its potential to protect people, data, 
 
 These are some of the projects I've built, analyzed or, broken.
 
-### 🔹 [Cybersecurity Projects Repository](https://github.com/asgilm/Cybersecurity-Projects)
+### 🔹 [Google Cybersecurity Projects](https://github.com/asgilm/Google-Cybersecurity-Projects)
 
-- **Python Tools**
-  - [Update IP Allow List](https://github.com/asgilm/Cybersecurity-Projects/tree/main/python-tools/update-ip-allow-list)
+- **Python Tools:** [Update IP Allow List](https://github.com/asgilm/Cybersecurity-Projects/tree/main/python-tools/update-ip-allow-list)
 
-- **Database Security**
-  - [SQL Filtering Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/database-security/sql-filtering-practice)
+- **Database Security:** [SQL Filtering Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/database-security/sql-filtering-practice)
 
-- **Linux Projects**
-  - [File Permissions Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/linux-projects/file-permissions-practice)    
+- **Linux Projects:** [File Permissions Practice](https://github.com/asgilm/Cybersecurity-Projects/tree/main/linux-projects/file-permissions-practice)    
 
-- **Network Traffic Analysis**
-  - [DNS Port 53 Incident](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/DNS-port-53-incident)
-  - [SYN Flood Attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/SYN-flood-attack)
+- **Network Traffic Analysis:** [DNS Port 53 Incident](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/DNS-port-53-incident), [SYN Flood Attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/network-traffic-analysis/SYN-flood-attack)
 
-- **Incident Response & Analysis**
-  - [DDoS ICMP Flood Attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/incident-response-and-analysis/ddos-icmp-flood-attack)
+- **Incident Response & Analysis:** [DDoS ICMP Flood Attack](https://github.com/asgilm/Cybersecurity-Projects/tree/main/incident-response-and-analysis/ddos-icmp-flood-attack)
 
-- **Security Audits**
-  - [Botium Toys Audit](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/botium-toys-audit)
-  - [Public Database Vulnerability Assessments](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/public-database-vulnerability-assessments)
+- **Security Audits:** [Botium Toys Audit](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/botium-toys-audit), [Public Database Vulnerability Assessments](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/public-database-vulnerability-assessments)
 
 ---
 
