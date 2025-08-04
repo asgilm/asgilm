@@ -6,7 +6,7 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm passionate about cybersecurity and its power to protect people, data, and digital environments. With a background in network systems and a growing portfolio of hands-on projects, I'm committed to becoming a highly competent and adaptable security professional. I’m especially interested in:
+I’m passionate about cybersecurity and its potential to protect people, data, and digital systems. With a strong background in network systems and hands-on experience through labs and real-world simulations, I’m committed to growing as a technical and ethical cybersecurity professional. My current areas of focus include:
 
 - Vulnerability Management 🔍
 - Cloud security ☁️
@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and its power to protect people, data, and di
 
 ## 📁 Cybersecurity Portfolio
 
-These are some of the projects I have built, analyzed or, broken.
+These are some of the projects I've built, analyzed or, broken.
 
 ### 🔹 [Cybersecurity Projects Repository](https://github.com/asgilm/Cybersecurity-Projects)
 
