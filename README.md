@@ -45,7 +45,7 @@ A collection of professional writeups and technical walkthroughs for labs and mo
 - **SOC Analyst Path**
     - [Writeup: Incident Response Exercise](https://github.com/asgilm/HTB-Writeups/tree/main/SOC-Analyst-Path/Incident-Response-Writeup)
     - [Writeup: Threat Hunting Challenge](https://github.com/asgilm/HTB-Writeups/tree/main/SOC-Analyst-Path/Threat-Hunting-Writeup)
-    
+-->
 ---
 
 ## 🧠 Philosophy on Security
