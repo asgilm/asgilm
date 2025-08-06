@@ -34,10 +34,10 @@ These are some of the projects I've built, analyzed or, broken.
 - **Security Audits:** [Botium Toys Audit](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/botium-toys-audit), [Public Database Vulnerability Assessments](https://github.com/asgilm/Cybersecurity-Projects/tree/main/audits/public-database-vulnerability-assessments)
 
 ---
-
+<!--
 ### [Hack The Box Writeups](https://github.com/asgilm/HTB-Writeups)
 A collection of professional writeups and technical walkthroughs for labs and modules completed on Hack The Box Academy.
-<!--
+
 - **Junior Cybersecurity Analyst Path**
     - [Writeup: Vulnerability Assessment Module](https://github.com/asgilm/HTB-Writeups/tree/main/Junior-Analyst-Path/Vulnerability-Assessment-Module-Writeup)
     - [Writeup: Network Exploitation Lab](https://github.com/asgilm/HTB-Writeups/tree/main/Junior-Analyst-Path/Network-Exploitation-Writeup)
