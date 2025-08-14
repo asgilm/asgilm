@@ -53,9 +53,9 @@ A collection of writeups and technical walkthroughs for labs and modules complet
 > *– Anderson Gil*
 
 ---
-<!--
+
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anderson-gil/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/asgilm)
 
 ---
